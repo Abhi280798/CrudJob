@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "KZqrBU2hmTyb8ogJ1AuDNfcctKjq4/lSPbSgyA/oXHE=",
+  "Source": "JobApplication",
+  "BasePath": "_content/JobApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JobApplication\\wwwroot",
+      "Source": "JobApplication",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\",
+      "BasePath": "_content/JobApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\Cv\\1e004991-d67b-4981-a05f-4e73f8342a2d.png",
+      "SourceId": "JobApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\",
+      "BasePath": "_content/JobApplication",
+      "RelativePath": "Cv/1e004991-d67b-4981-a05f-4e73f8342a2d.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cv\\1e004991-d67b-4981-a05f-4e73f8342a2d.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\Cv\\99425ffc-5bc2-4fe9-867c-90f1e7d92f66.png",
+      "SourceId": "JobApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\",
+      "BasePath": "_content/JobApplication",
+      "RelativePath": "Cv/99425ffc-5bc2-4fe9-867c-90f1e7d92f66.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cv\\99425ffc-5bc2-4fe9-867c-90f1e7d92f66.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\Cv\\9bc72ac6-7c68-4c56-a877-e48cce06075f.png",
+      "SourceId": "JobApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\",
+      "BasePath": "_content/JobApplication",
+      "RelativePath": "Cv/9bc72ac6-7c68-4c56-a877-e48cce06075f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cv\\9bc72ac6-7c68-4c56-a877-e48cce06075f.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\Cv\\a55000e1-947a-4533-9631-6633446d2ea7.png",
+      "SourceId": "JobApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\JobApplication\\JobApplication\\wwwroot\\",
+      "BasePath": "_content/JobApplication",
+      "RelativePath": "Cv/a55000e1-947a-4533-9631-6633446d2ea7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cv\\a55000e1-947a-4533-9631-6633446d2ea7.png"
+    }
+  ]
+}
